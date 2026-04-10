@@ -4,8 +4,8 @@
   "description": "Este é  um projeto de clone do Spotify, desenvolvido para fins educacionais. O objetivo é criar uma interface semelhante á do Spotify, utilizando tecnologias web modernas.",
   "main": "index.js",
   "scripts": {
-    "dev": "tailwindcss -i ./input.css - o ./src/css/style.css --watch",
-    "build": "tailwindcss -i ./input.css - o ./src/css/style.css"
+    "dev": "tailwindcss -i ./input.css -o ./src/css/style.css --watch",
+    "build": "tailwindcss -i ./input.css -o ./src/css/style.css"
   },
   "repository": {
     "type": "git",
